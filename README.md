@@ -53,9 +53,3 @@ https://github.com/SinghAnkit1010/Artinum-Segmentation/assets/103994994/95752222
 ## Acknowledgments 
 The model is trained on dataset taken from medicaldecathlon
 https://drive.google.com/file/d/1wEB2I6S6tQBVEPxir8cA5kFB8gTQadYY/view?usp=sharing
-
-## Author
-
-- Include your name and contact information.
-
-Feel free to customize this README file further to include additional details or instructions specific to your project.
