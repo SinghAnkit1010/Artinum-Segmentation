@@ -3,6 +3,7 @@
 ## Overview
 
 This repository contains the code and information related to a project on Atrium segmentation using 3D MRI data stored in NIFTI (Neuroimaging Informatics Technology Initiative) file format. The goal of this project is to segment Atrium regions from 3D MRI scans of a patient using a UNet model.
+this task enables us to calculate exact volume.It is necessary because change in atrial volume can leads to cardiac disorders such as atrial fibrillation or mitral valve stenosis,which can block blood flow.
 ## Dataset
 
 - The 3D MRI data is stored in the NIFTI file format.
